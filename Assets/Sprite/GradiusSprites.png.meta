@@ -1,0 +1,1915 @@
+fileFormatVersion: 2
+guid: c9020854a11e2954987769a2c8894bdb
+timeCreated: 1447908491
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GradiusSprites_0
+    21300002: GradiusSprites_1
+    21300004: GradiusSprites_2
+    21300006: GradiusSprites_3
+    21300008: GradiusSprites_4
+    21300010: GradiusSprites_5
+    21300012: GradiusSprites_6
+    21300014: GradiusSprites_7
+    21300016: GradiusSprites_8
+    21300018: GradiusSprites_9
+    21300020: GradiusSprites_10
+    21300022: GradiusSprites_11
+    21300024: GradiusSprites_12
+    21300026: GradiusSprites_13
+    21300028: GradiusSprites_14
+    21300030: GradiusSprites_15
+    21300032: GradiusSprites_16
+    21300034: GradiusSprites_17
+    21300036: GradiusSprites_18
+    21300038: GradiusSprites_19
+    21300040: GradiusSprites_20
+    21300042: GradiusSprites_22
+    21300044: GradiusSprites_23
+    21300046: GradiusSprites_24
+    21300048: GradiusSprites_25
+    21300050: GradiusSprites_26
+    21300052: GradiusSprites_27
+    21300054: GradiusSprites_28
+    21300056: GradiusSprites_29
+    21300058: GradiusSprites_30
+    21300060: GradiusSprites_31
+    21300062: GradiusSprites_32
+    21300064: GradiusSprites_33
+    21300066: GradiusSprites_34
+    21300068: GradiusSprites_35
+    21300070: GradiusSprites_36
+    21300072: GradiusSprites_37
+    21300074: GradiusSprites_38
+    21300076: GradiusSprites_39
+    21300078: GradiusSprites_40
+    21300080: GradiusSprites_41
+    21300082: GradiusSprites_42
+    21300084: GradiusSprites_43
+    21300086: GradiusSprites_44
+    21300088: GradiusSprites_45
+    21300090: GradiusSprites_46
+    21300092: GradiusSprites_47
+    21300094: GradiusSprites_48
+    21300096: GradiusSprites_49
+    21300098: GradiusSprites_50
+    21300100: GradiusSprites_51
+    21300102: GradiusSprites_52
+    21300104: GradiusSprites_53
+    21300106: GradiusSprites_54
+    21300108: GradiusSprites_55
+    21300110: GradiusSprites_56
+    21300112: GradiusSprites_57
+    21300114: GradiusSprites_58
+    21300116: GradiusSprites_59
+    21300118: GradiusSprites_60
+    21300120: GradiusSprites_61
+    21300122: GradiusSprites_62
+    21300124: GradiusSprites_63
+    21300126: GradiusSprites_64
+    21300128: GradiusSprites_65
+    21300130: GradiusSprites_66
+    21300132: GradiusSprites_67
+    21300134: GradiusSprites_68
+    21300136: GradiusSprites_69
+    21300138: GradiusSprites_70
+    21300140: GradiusSprites_71
+    21300142: GradiusSprites_76
+    21300144: GradiusSprites_77
+    21300146: GradiusSprites_78
+    21300148: GradiusSprites_80
+    21300150: GradiusSprites_81
+    21300152: GradiusSprites_82
+    21300154: GradiusSprites_83
+    21300156: GradiusSprites_84
+    21300158: GradiusSprites_85
+    21300160: GradiusSprites_86
+    21300162: GradiusSprites_87
+    21300164: GradiusSprites_88
+    21300166: GradiusSprites_89
+    21300168: GradiusSprites_90
+    21300170: GradiusSprites_91
+    21300172: GradiusSprites_96
+    21300174: GradiusSprites_109
+    21300176: GradiusSprites_112
+    21300178: GradiusSprites_113
+    21300180: GradiusSprites_117
+    21300182: GradiusSprites_118
+    21300184: GradiusSprites_119
+    21300186: GradiusSprites_120
+    21300188: GradiusSprites_121
+    21300190: GradiusSprites_122
+    21300192: GradiusSprites_123
+    21300194: GradiusSprites_124
+    21300196: GradiusSprites_131
+    21300198: GradiusSprites_132
+    21300200: GradiusSprites_133
+    21300202: GradiusSprites_134
+    21300204: GradiusSprites_138
+    21300206: GradiusSprites_139
+    21300208: GradiusSprites_140
+    21300210: GradiusSprites_141
+    21300212: GradiusSprites_142
+    21300214: GradiusSprites_143
+    21300216: GradiusSprites_152
+    21300218: GradiusSprites_155
+    21300220: GradiusSprites_156
+    21300222: GradiusSprites_157
+    21300224: GradiusSprites_158
+    21300226: GradiusSprites_159
+    21300228: GradiusSprites_164
+    21300230: GradiusSprites_165
+    21300232: GradiusSprites_173
+    21300234: GradiusSprites_174
+    21300236: GradiusSprites_175
+    21300238: GradiusSprites_176
+    21300240: GradiusSprites_186
+    21300242: GradiusSprites_193
+    21300244: GradiusSprites_194
+    21300246: GradiusSprites_195
+    21300248: GradiusSprites_196
+    21300250: GradiusSprites_211
+    21300252: GradiusSprites_212
+    21300254: GradiusSprites_213
+    21300256: GradiusSprites_214
+    21300258: GradiusSprites_215
+    21300260: GradiusSprites_216
+    21300262: GradiusSprites_217
+    21300264: GradiusSprites_218
+    21300266: GradiusSprites_219
+    21300268: GradiusSprites_221
+    21300270: GradiusSprites_222
+    21300272: GradiusSprites_223
+    21300274: GradiusSprites_224
+    21300276: GradiusSprites_225
+    21300278: GradiusSprites_226
+    21300280: GradiusSprites_227
+    21300282: GradiusSprites_228
+    21300284: GradiusSprites_229
+    21300286: GradiusSprites_230
+    21300288: GradiusSprites_231
+    21300290: GradiusSprites_232
+    21300292: GradiusSprites_233
+    21300294: GradiusSprites_234
+    21300296: GradiusSprites_235
+    21300298: GradiusSprites_92
+    21300300: GradiusSprites_94
+    21300302: GradiusSprites_93
+    21300304: GradiusSprites_72
+    21300306: GradiusSprites_73
+    21300308: GradiusSprites_74
+    21300310: GradiusSprites_79
+    21300312: GradiusSprites_95
+    21300314: GradiusSprites_98
+    21300316: GradiusSprites_21
+    21300318: GradiusSprites_100
+    21300320: GradiusSprites_101
+    21300322: GradiusSprites_105
+    21300324: GradiusSprites_107
+    21300326: GradiusSprites_108
+    21300328: GradiusSprites_97
+    21300330: GradiusSprites_99
+    21300332: GradiusSprites_104
+    21300334: GradiusSprites_102
+    21300336: GradiusSprites_75
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GradiusSprites_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 353
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 353
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 356
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 353
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 352
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 354
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 354
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 352
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 364
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_11
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 352
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_12
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 354
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_14
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 357
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_15
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 352
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 357
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_17
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 356
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_18
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 354
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_19
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 357
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_20
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 352
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_22
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 321
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_24
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 322
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_25
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 322
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_26
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 322
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_27
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 322
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 324
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_29
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 324
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_30
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 323
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_31
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 321
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_32
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_33
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 306
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_34
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 289
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_36
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 289
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 288
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_38
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_39
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_40
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 300
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_41
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 300
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_42
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 300
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_44
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 288
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_45
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 293
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_46
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 293
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_47
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 293
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_48
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 288
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_49
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 272
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_50
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 272
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_51
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 272
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 272
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_54
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 256
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_55
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 256
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_56
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 256
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_57
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 256
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_58
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 256
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_59
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_60
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_61
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 224
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_62
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 224
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_63
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_64
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_65
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 226
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_66
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 232
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_67
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 232
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 233
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_69
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 233
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_70
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 233
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 236
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_76
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 137
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_77
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_78
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 196
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_80
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 196
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_81
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 168
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_82
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 144
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_83
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 196
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_84
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 144
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_85
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 168
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_86
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 201
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_87
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 168
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_88
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 144
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_89
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_90
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_91
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 204
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_96
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_109
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 210
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_112
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 137
+        width: 39
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_113
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 136
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_117
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 112
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_118
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 112
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_119
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 112
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_120
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 112
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_121
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 112
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_122
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 112
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_123
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 112
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_124
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 115
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_131
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 124
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_132
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 124
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_133
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 124
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_134
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 117
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_138
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 112
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_139
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 112
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_140
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 117
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_141
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 117
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_142
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 117
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_143
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 112
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_152
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 104
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_155
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 95
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_156
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 92
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_157
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 88
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_158
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 89
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_159
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 89
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_164
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 89
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_165
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_173
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 80
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_174
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 80
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_175
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 65
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_176
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 65
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_186
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 74
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_193
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 61
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_194
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 59
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_195
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 57
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_196
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 60
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_211
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_212
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 48
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_213
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 48
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_214
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_215
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 44
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_216
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 44
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_217
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 20
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_218
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 43
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_219
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_221
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 30
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_222
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 18
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_223
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_224
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 17
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_225
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_226
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 23
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_227
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 8
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_228
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_229
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 20
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_230
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 19
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_231
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 17
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_232
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 10
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_233
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 15
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_234
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 9
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_235
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 143
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_92
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 142
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_94
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 168
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_93
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 158
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_72
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 158
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_73
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 192
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_74
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 189
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_79
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 37
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_95
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 33
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_98
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 32
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_101
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 167
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_105
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 211
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_107
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 167
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_108
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 143
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_97
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 166
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_99
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 135
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_104
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 140
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_102
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 111
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GradiusSprites_75
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 143
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
